@@ -28,7 +28,10 @@ h2{
 h3{
   font-family: 'Montserrat', sans-serif;
 }
-
+.devimg{
+  height:100px;
+  width: 100px;
+}
 .bottomcloud{
   position: absolute;
   left: 150px;
